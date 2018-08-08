@@ -2,6 +2,7 @@
 
 In order to run the server:
 - clone the repository
+- compile
 - on the root of the project, go to: `cd out/production/echo-server`
 - run `java com/company/Main numberOfPort`, replace numberOfPort with a port number on which you want to run the server eg. 8080.
 
